@@ -375,6 +375,7 @@ export const __options_showYoutubegameplay = "options_showYoutubegameplay";
 export const __options_showYoutubereviews = "options_showYoutubereviews";
 export const __options_openinnewtab = "options_openinnewtab";
 export const __options_showbartervg = "options_showbartervg";
+export const __options_showlestrades = "options_showlestrades";
 export const __options_collection = "options_collection";
 export const __options_waitlist = "options_waitlist";
 export const __options_showPlayersInfo = "options_showPlayersInfo";

@@ -18,6 +18,7 @@
         __options_purchaseDates,
         __options_showBadgeProgress,
         __options_showbartervg,
+        __options_showlestrades,
         __options_showPackageInfo,
         __options_showPlayersInfo,
         __options_showSteampeek,
@@ -80,6 +81,7 @@
         <Toggle bind:value={$settings.showitadlinks}>{L(__options_itadlinks)}</Toggle>
         <Toggle bind:value={$settings.showsteamdb}>{L(__options_steamdb)}</Toggle>
         <Toggle bind:value={$settings.showbartervg}>{L(__options_showbartervg)}</Toggle>
+        <Toggle bind:value={$settings.showlestrades}>{L(__options_showlestrades)}</Toggle>
         <Toggle bind:value={$settings.showsteamcardexchange}>{L(__options_storeSteamcards)}</Toggle>
         <Toggle bind:value={$settings.showprotondb}>{L(__options_protondb)}</Toggle>
         <Toggle bind:value={$settings.showcompletionistme}>{L(__options_completionistme)}</Toggle>
